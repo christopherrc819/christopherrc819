@@ -1,6 +1,3 @@
-# christopherc819
-Personal Profile
-
 **Hello there, my name is Chris Wolf 🐺**
 
 Frontend Focused Web Developer
