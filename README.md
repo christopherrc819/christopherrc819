@@ -6,6 +6,7 @@ Frontend Focused Web Developer
 ---
 
 Currently Working on: Frontend Mentor Projects
-Currently Learning on: JavaScript
+
+Currently Learning on: JavaScript, CSS Design Systems and Architecture
 
 > "An ounce of action is worth a ton of theory" -Ralph Waldo Emerson
