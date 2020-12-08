@@ -9,4 +9,6 @@ Frontend Focused Web Developer
 
 🌱Currently Learning on: JavaScript, Boostrap, CSS Design Systems and Architecture, Accessibility
 
+📖Reading: Atomic Design by Brad Frost
+
 > "An ounce of action is worth a ton of theory" -Ralph Waldo Emerson
