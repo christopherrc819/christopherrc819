@@ -1,4 +1,4 @@
-**Hello there, my name is Chris Wolf 🐺**
+**Hello there, my name is Chris 🐺**
 
 Frontend Focused Web Developer
 
