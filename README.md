@@ -7,7 +7,7 @@ Frontend Focused Web Developer
 
 ⭐️Currently Working on: Frontend Mentor Projects
 
-🌱Currently Learning on: JavaScript, Boostrap, CSS Design Systems and Architecture, Accessibility
+🌱Currently Learning on: JavaScript, Bootstrap, CSS Design Systems and Architecture, Accessibility
 
 📖Reading: Atomic Design by Brad Frost
 
