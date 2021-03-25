@@ -2,7 +2,7 @@
 
 Frontend Focused Web Developer
 
-![HTML5](webdev-icons/html5.svg) ![CSS3](webdev-icons/css3.svg) ![Sass](webdev-icons/sass.svg) ![JavaScript](webdev-icons/javascript.svg)
+![HTML5](webdev-icons/html5.svg) ![CSS3](webdev-icons/css3.svg) ![Sass](webdev-icons/sass.svg) ![JavaScript](webdev-icons/javascript.svg) ![REACT](web-dev/react.svg)
 ---
 
 ⭐️Currently Working on: Frontend Mentor Projects, and freecodecamp: Vanilla JS
