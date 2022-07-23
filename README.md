@@ -1,6 +1,6 @@
 **Hello there, my name is Chris 🐺**
 
-Frontend Focused Web Developer
+Web Developer
 
 [hashnode.dev](https://christopherc819.hashnode.dev)
 
@@ -9,6 +9,6 @@ Frontend Focused Web Developer
 
 ⭐️ Currently Working on: todoApp
 
-🌱 Currently Learning: JavaScript, Bootstrap, CSS Design Systems and Architecture, Accessibility
+🌱 Currently Learning: Bootstrap, APIs
 
 > "An ounce of action is worth a ton of theory" -Ralph Waldo Emerson
