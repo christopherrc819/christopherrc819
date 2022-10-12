@@ -1,6 +1,6 @@
 **Hello there, my name is Chris 🐺**
 
-Web Developer and Shopify Expert
+<h4>Web Developer and Shopify Expert</h4>
 
 [hashnode.dev](https://christopherc819.hashnode.dev)
 
