@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Node.js](/webdev-icons/noadejs.svg)
+![Node](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodedotjs)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 ---
