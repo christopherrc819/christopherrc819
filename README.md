@@ -2,7 +2,7 @@
 
 <h4>Shopify Developer & E-Commerce Expert</h4>
 
-[CHRISCHANGSHOPIFYDEV](https://chrischangshopifydev.netlify.app)
+<a href="http://chrischangshopifydev.netlify.app" target="_blank">CHRISCHANGSHOPIFYDEV</a>
 
 ![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-000000?style=flat&logo=shopify)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
