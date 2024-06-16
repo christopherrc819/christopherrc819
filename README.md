@@ -4,7 +4,7 @@
 
 [CHRISCHANGSHOPIFYDEV](https://chrischangshopifydev.netlify.app)
 
-![Shopify Liquid](https://img.shields.io/badge/-SHOPIFY%20LIQUID-000000?style=flat&logo=shopify)
+![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-000000?style=flat&logo=shopify)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
