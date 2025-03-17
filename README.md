@@ -1,8 +1,8 @@
 **Hello there, my name is Chris 🐺**
 
-<h4>Shopify Developer & E-Commerce Expert</h4>
+<h4>IT Professional & Web Developer</h4>
 
-<a href="http://chrischangshopifydev.netlify.app" target="_blank">CHRISCHANGSHOPIFYDEV</a>
+<a href="http://chrischangtech.netlify.app" target="_blank">CHRIS CHANG TECH</a>
 
 ![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-000000?style=flat&logo=shopify)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
@@ -14,7 +14,4 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 ---
-
-⭐️ Currently Working on: Shopify Projects
-
-🙋🏻‍♂️ Ask me about Shopify Development, Checkout Flow, JavaScript, Tailwind CSS, Cart Functionalities!
+🙋🏻‍♂️ Ask me about anything tech
